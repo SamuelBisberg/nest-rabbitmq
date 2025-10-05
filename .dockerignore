@@ -1,0 +1,6 @@
+*
+!/src
+!/apps
+!package-*.json
+!tsconfig*.json
+!nest-cli.json
